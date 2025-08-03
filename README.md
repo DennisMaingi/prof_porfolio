@@ -2,8 +2,7 @@ Portfolio Project
 Welcome to my personal portfolio! This project showcases a curated selection of my work, skills, and experience as a [Your Profession - e.g., Web Developer, Data Scientist, UI/UX Designer]. It serves as both a personal website and a professional portfolio to highlight my technical and creative capabilities.
 
 🖥️ Live Demo
-👉 View the Live Portfolior-	https://dennismaingi.github.io/HTML_ASSIGNMENT./ 
-
+👉 View the Live Portfolior-	
 📌 Table of Contents
 About
 
